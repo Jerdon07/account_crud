@@ -11,8 +11,8 @@
 <body class="bg-blue-100">
     <div>
         <h2>Users</h2>
-        <input type="button" value="Edit" class="h-12 w-90 bg-black text-white">
-        <input type="button" value="Delete" class="h-12 w-90 bg-black text-white">
+        <input type="button" value="Edit">
+        <input type="button" value="Delete">
     </div>
 </body>
 </html>
