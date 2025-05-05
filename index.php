@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./src/output.css">
+    <link rel="stylesheet" href="./styles/style.css">
     <title>Document</title>
 </head>
 
@@ -14,7 +14,7 @@
     <div class="h-100 w-100 bg-white rounded-xl p-5">
         <h1 class="text-2xl font-semibold mb-5">LOGIN</h1>
 
-        <form action="" method="POST" class="bg-red-100">
+        <form action="" method="POST">
             <input type="text" name="username" placeholder="Account" required class="h-12 w-90 bg-gray-200 mb-5"><br>
             <input type="password" name="password" placeholder="Password" required class="h-12 w-90 bg-gray-200 mb-5 pb-5"><br>
             <input type="submit" name="submit" value="Login" class="bg-red-200 text-white rounded-sm p-2 mt-3">
